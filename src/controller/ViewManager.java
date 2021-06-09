@@ -4,6 +4,8 @@ import java.awt.CardLayout;
 import java.awt.Container;
 
 import model.User;
+import view.LoginView;
+import view.ProfileView;
 
 public class ViewManager {
 	
